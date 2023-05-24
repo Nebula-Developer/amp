@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uDDWm50dJSJ5riITP2fEITa1jsp7YpFfaLFh2SJfqEJBacjLMBIu1fCWAbYH0ZIE1+hF373yg/tW0TtL/KfGMA==",
+  "success": true,
+  "projectFilePath": "/home/nebuladev/Documents/amp/amp.csproj",
+  "expectedPackageFiles": [
+    "/home/nebuladev/.nuget/packages/managedbass/3.1.1/managedbass.3.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
